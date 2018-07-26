@@ -9,4 +9,4 @@ consider number of student pass final exam example; for a teacher to have previo
  ## Why Machine learning
 There is a lot of reasons, but it's ability of evolving accordingly contrast to traditional programming it is profound. In traditional programming every changes and rules that guide application must be coded to cope with different situations, but Machine Learning require a proper algorithm and datset to cope with different situations.
 
-## Types of Machine learning
+
