@@ -1,2 +1,2 @@
 # ipt_2018
-hello world!
+Simple repository to document workflow and tracking practical assingment.
