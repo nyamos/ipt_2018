@@ -9,4 +9,16 @@ consider number of student pass final exam example; for a teacher to have previo
  ## Why Machine learning
 There is a lot of reasons, but it's ability of evolving accordingly contrast to traditional programming is profound. In traditional programming every changes and rules that guide application must be coded to cope with different situations, but Machine Learning require a proper algorithm and datset to cope with different situations.
 
+## Type of Machine learning
+  - _Supervised learning:_ this type of machine learning using labeled data (desired solution) to train model, in previous example of final exam, model was trained with scenarios which consist of perfomance records and also final results according to the repective performance.
+  
+  - _Unsupervised learning:_ this type of machine learning does not have labeled data, the model learn without any supervision. hence, unsupervised learning deal with unlabeled data and find connection about them, for example; you want to supplier tshirt for school student given a huge data about students with no meaning at all, then unsupervised can work with data and predict how much of each size should you order for the students.
+  
+  - _semisupervised learning:_ its a combination of supervised and unsupervised, an example for this is a photo application which at first is fed with unlabeled data people's photos, but once you name a person on one photo it will name the rest of the photo, of which that person appeared.
+  
+  - _Reinforcement learning:_ learning system perform action and get a reward or penalties in case of bad performance, the system is able to choose best action on situation due to the policy that was once defined to it, and in case of penalties, the system correct policy in the best way accordingly so as to get high points (reward) next time.
+
+## Challenge of Machine learning.
+
+
 
