@@ -18,7 +18,7 @@ There is a lot of reasons, but it's ability of evolving accordingly contrast to 
   
   - _Reinforcement learning:_ learning system perform action and get a reward or penalties in case of bad performance, the system is able to choose best action on situation due to the policy that was once defined to it, and in case of penalties, the system correct policy in the best way accordingly so as to get high points (reward) next time.
 
-## Challenge of Machine learning.
+
 
 
 
