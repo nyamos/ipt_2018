@@ -15,7 +15,6 @@ Classfication tasks predict class label given an input. classification is divide
  Therefore, our model should not be too simple or too complex, just complex enough to have a better generalization on a new data, because the more complex is the model the more you get better generalisation, but careful not make the model too complex, so it start focusing an indivudual in our data which will lead to bad generalisation on new data.  
  To clarify things so that we are clear on overfitting, we have the right model a too complex one, its just that the datset is not a large variety one to balance with indivuals which our too complex model is focusing on. So having a more complex model for better generalisation, its begs for larger variety of dataset to avoid overfitting. 
  
- 
 
 
 
